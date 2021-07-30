@@ -1,6 +1,6 @@
 ## Hi there, grizzly here. 👋🏼👨🏻‍💻
 
-[![Twitter Badge](https://img.shields.io/badge/-@ggrizlyy-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=ggrizlyy "Follow on Twitter")
+[![Twitter Badge](https://img.shields.io/badge/-@ggriizlyy-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=ggriizlyy "Follow on Twitter")
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/laauticova/ "Follow on Instagram")
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/21k3gvhuzutwv3f7r4ot6jsra?si=bbfc8040078d40a8 "My Spotify playlists")
 
