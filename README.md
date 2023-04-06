@@ -15,9 +15,6 @@
 <p align="center">
   Hi, my name is Lautaro.
   <br>
-  <br>
-  🔬 I am currently studying Computer Engineering at the University of Buenos Aires.
-  <br>
   📚 I’m currently working @ <a href="https://bairesrp.net/" title="bairesroleplay">bairesroleplay</a>
   <br>
 </p>
