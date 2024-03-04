@@ -15,7 +15,7 @@
 <p align="center">
   Hi, my name is Lautaro.
   <br>
-  📚 I’m currently working @ <a href="https://bairesrp.net/" title="bairesroleplay">bairesroleplay</a>
+  📚 I’m currently working @ <a href="https://bair.es/" title="bair.es">bair.es</a>
   <br>
 </p>
 
