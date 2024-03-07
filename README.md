@@ -8,7 +8,7 @@
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/lautaro-rodrigues-cova-9349941b4/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
+    <a href="https://www.linkedin.com/in/lautaro-rodrigues-cova/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.instagram.com/lauticova/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
