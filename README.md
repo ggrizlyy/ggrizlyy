@@ -1,34 +1,17 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ggrizlyy.ggrizlyy">
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+grizzly....;&center=true&size=30">
-  </a>
-</h1>
+### Hi there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=ggrizlyy.ggrizlyy">
 
-<h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/lautaro-rodrigues-cova/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/lauticova/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
-</h5>
-<br>
-<p align="center">
-  Hi, my name is Lautaro.
-  <br>
-  📚 I’m currently working @ <a href="https://bair.es/" title="bair.es">bair.es</a>
-  <br>
-</p>
+Currently pursuing a Bachelor's degree in Information Systems.
 
-<br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=ggrizlyy&theme=react&border=61dafb&hide_border=true" alt="ggrizlyy" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=ggrizlyy&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <br>
-</p>
+Oh, by the way, I'm the proud owner of bair.es – where things get real!
+
+<details>
+<summary>⚡️ More about my coding life</summary>
+<br />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggrizlyy&layout=compact&hide=css,html)
+
+![ggrizlyy's github stats](https://github-readme-stats.vercel.app/api?username=ggrizlyy&count_private=true&show_icons=true&theme=dark)
+
+</details>
